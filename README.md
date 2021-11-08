@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🍚🍚🍚 development engineer in Test
 - 📫 How to reach me: visonman@qq.com
 - 🖥🖥🖥Code: Python JavaScript
--✨✨✨Nice to meet everyone✨✨✨
+- ✨✨✨Nice to meet everyone✨✨✨
