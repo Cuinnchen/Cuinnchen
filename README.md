@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🍕🍕🍕 This is Cuinn. Chinese name is Chen Kun
 - 🍚🍚🍚 development engineer in Test
-- 📫 How to reach me: visonman@qq.com
-- 🖥🖥🖥Code: Python JavaScript
-- ✨✨✨Nice to meet everyone✨✨✨
+
+
+
