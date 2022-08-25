@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">专注于测试开发方向</div>  
+### <div align="center">Test development engineer</div>  
   
 
-<br/>  
 
 
-## 会的语音和工具
+
+## 会的语言和工具
 <table><tr><td valign="top" width="33%">
 
 
@@ -56,24 +56,15 @@
 <br/>  
 
 
-## Connect with me  
   
-
-<br/>  
+ 
 
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Cuinnchen&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
+ 
 
 <br/>  
 
